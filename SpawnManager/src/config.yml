@@ -1,0 +1,10 @@
+# SpawnManager Config
+# The space at Prefix is important!
+SpawnManager:
+  Prefix: '&4[&6SpawnManager&4]&8 '
+  Messanges:
+    OnlyPlayers: 'This Command is only for Players!'
+    NeedArgs: 'This Command need arguments!'
+    Reloade: 'Plugin reloadet!'
+    setworldspawn: 'The Worldspawn set to your Location!'
+    

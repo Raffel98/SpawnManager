@@ -1,0 +1,14 @@
+name: SpawnManager
+author: Raffel98
+description: Whith this Plugin you can set a new WorldSpawnpoint !!
+version: 0.0.3
+main: de.raffel98.SpawnManager.Main
+
+commands:
+  SM:
+    description: Plugin options!
+    usage: /<command> <args>
+  setworldspawn:
+    description: Set Worldspawn to your Location!
+    usage: /<command>
+ 

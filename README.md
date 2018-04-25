@@ -1,2 +1,2 @@
 # SpawnManager
-A Simple Spigot Plugin
+More infos on https://www.spigotmc.org/resources/spawnmanager.22822/
